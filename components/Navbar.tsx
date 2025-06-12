@@ -54,13 +54,15 @@ const Navbar = () => {
   return (
     <div className="sticky top-0 z-10 py-2 px-10 flex gap-2 justify-between items-center bg-white max-sm:px-2">
       <Link href="/">
+        <div className="rounded-xl">
         <Image
           src="/IMG-20250611-WA0026.jpg"
           alt="Website logo"
-          width={130}
-          height={100}
+          width={100}
+          height={70}
           className="lg:w-[50%]"
         />
+          </div>
       </Link>
 
       <div className="flex gap-4 text-base-bold max-lg:hidden w-[30%]">
