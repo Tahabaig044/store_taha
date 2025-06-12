@@ -55,7 +55,7 @@ const Navbar = () => {
     <div className="sticky top-0 z-10 py-2 px-10 flex gap-2 justify-between items-center bg-white max-sm:px-2">
       <Link href="/">
         <Image
-          src="/th.png"
+          src="/IMG-20250611-WA0026.jpg"
           alt="Website logo"
           width={130}
           height={100}
