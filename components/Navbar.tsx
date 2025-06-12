@@ -56,7 +56,7 @@ const Navbar = () => {
       <Link href="/" className="flex items-center">
   <div className="relative w-[120px] h-[60px] sm:w-[140px] sm:h-[70px]">
     <Image
-      src="/IMG-20250611-WA0026.jpg"
+      src="/logo.png"
       alt="Website logo"
       fill
       className="object-contain"
